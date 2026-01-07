@@ -6,6 +6,7 @@ This project is organized into three analytical components, each using a differe
 
 ## Project Structure
 - **Part 1: Fire activity and burn severity analysis**
+  - 
 - **Part 2:**
 - **Part 3:**
 
